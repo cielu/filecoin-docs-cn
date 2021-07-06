@@ -1,0 +1,3 @@
+Sitemap: https://filwiki.cn/sitemap.xml
+
+User-agent: *
